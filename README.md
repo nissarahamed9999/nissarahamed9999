@@ -22,7 +22,7 @@ I'm a **developer and cloud enthusiast** with a deep understanding on contact ce
 
 ## 📁 Featured Projects
 
-Explore my Genesys Cloud automation and voicebot integrations here:  
+Explore my Genesys Cloud Project:  
 👉 [Genesys Cloud Projects Repository](https://github.com/nissarahamed9999/genesys-cloud-projects)
 
 ---
