@@ -6,7 +6,7 @@
 
 I'm a **developer and cloud enthusiast** with a deep understanding on contact center technologies and a drive to empower others through innovation and knowledge sharing. My expertise bridges **Genesys Cloud CX** and **Java/Azure-based applications**, where I focus on crafting scalable, secure cloud solutions.
 
-- ☁️ **Core Focus:** Architecting resilient systems on Genesys Cloud CX
+- ☁️ **Core Focus:** Architecting resilient systems on Genesys Cloud CX  
 - 🔧 **Community-Driven:** Always exploring, contributing, and learning with fellow tech minds
 
 ---
@@ -17,6 +17,13 @@ I'm a **developer and cloud enthusiast** with a deep understanding on contact ce
 - **Cloud Ecosystems:** Microsoft Azure  
 - **Programming Languages:** Java, Python  
 - **Databases:** MySQL  
+
+---
+
+## 📁 Featured Projects
+
+Explore my Genesys Cloud automation and voicebot integrations here:  
+👉 [Genesys Cloud Projects Repository](https://github.com/nissarahamed9999/genesys-cloud-projects)
 
 ---
 
